@@ -1,0 +1,17 @@
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Infra\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Infra.deps.json
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Infra\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Infra.dll
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Infra\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Infra.pdb
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Infra\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.dll
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Infra\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.dll
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Infra\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.pdb
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Infra\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.pdb
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Infra\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Infra.csproj.AssemblyReference.cache
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Infra\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Infra\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Infra.AssemblyInfoInputs.cache
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Infra\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Infra.AssemblyInfo.cs
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Infra\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Infra.csproj.CoreCompileInputs.cache
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Infra\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Infra.csproj.CopyComplete
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Infra\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Infra.dll
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Infra\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Infra.pdb
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Infra\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Application.dll
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Infra\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Application.pdb

@@ -1,0 +1,55 @@
+
+.Net Core 3.1 Rest API utilizando DDD + EF + Docker + IOC(Inversão de Controle ou Inversion of Control)
+
+//Pastas
+
+	1 - Services
+		Responsável por cuidar da WebAPI.
+
+	2 - Application
+		Responsável por realizar a comunicação direta com o Domain. Ela nao permite que o Services não entre em contato com o Domain 
+		Execução: Services manda um DTO (Data Transfer Object) a Application recebe este DTO e o transforma em Entity para que o Domain receba.
+
+	3 - Domain
+		O Core do DDD, ela detém as entities, Interface de contratos para services/repositories, class services, validation (caso necessário).
+
+	4 - Infra
+		Responsável pelo supporte de todas as camadas, ela é divida em 2 partes: 4.1 Data e 4.2 Cross Cutting (camada que atravessa todas as outras portanto detém referencia de todas as camadas)
+		Essa camada de Cross Cuting pode realizar a IOC / Inversão de controle e injeção de Dependencia (Isso significa menos trabalho pois não irá precisar instanciar todas as classes manualmente.) utilizando o autofac
+
+
+Passo a Passo:
+
+1 - Em .Domain criar as entidades necessárias do negócio e atribuir atributos (Nome, Valor, etc..) a elas.
+
+2 - Criando um SqlContext em 4.1 Data para que seja possível utilizar os metodos.
+
+DbSet representa uma consulta inicial que retorna todas as entidades do tipo especificado
+
+3 - Criar os repositórios na Domain.Core
+
+
+50 MINUTOS DE VÍDEO.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Services.deps.json
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Services.dll
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Services.pdb
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.dll
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.dll
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.pdb
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.pdb
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Services.csproj.AssemblyReference.cache
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Services.AssemblyInfo.cs
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Services.csproj.CopyComplete
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Services.dll
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Services.pdb

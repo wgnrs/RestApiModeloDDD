@@ -1,0 +1,13 @@
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.deps.json
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.dll
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.pdb
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.dll
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.pdb
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.AssemblyInfo.cs
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.csproj.CopyComplete
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.dll
+C:\Users\wagne\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.pdb
